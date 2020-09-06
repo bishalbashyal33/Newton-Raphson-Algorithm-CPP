@@ -1,5 +1,5 @@
 /*Develop an algorithmand program in C / C++ to find a real root of a polynomialequation of any d
-egree given it’s co - efficients.Hint:  construct different functionsfor the evaluation of polynomial and 
+egree given it’s co - efficients.Hint:  construct different functionsfor the evaluation of polynomial and \
 it’s derivative at a given point given theco - efficients.Forndegree polynomial : 
 f(x) = a0 + n∑i = 1aixif′(x) = a1 + n∑i = 2i×aixi−1wherea0is the constant term anda1, a2, . . ., 
 anare the coefficients ofx, x2, . . ., xnof the polynomial equation of degreen*/
