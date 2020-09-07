@@ -5,14 +5,13 @@ f(x) = a0 + n∑i = 1aixif′(x) = a1 + n∑i = 2i×aixi−1wherea0is the consta
 anare the coefficients ofx, x2, . . ., xnof the polynomial equation of degreen*/
 
 
-
+// does not converge for certain data interval
 
 #include <iostream>
 #include <math.h>
 double f(int, double*, double*);
 double derivf(int, double*, double*);
 double rootCalc(double, double, double*);
-
 
 
 
